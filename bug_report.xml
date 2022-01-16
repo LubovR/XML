@@ -2,8 +2,8 @@
 <id>2</id>
 <summary>На странице Каталог не работает пейджинг</summary>
 <Description>Зайти на страницу Каталог. Прокрутить вниз страницы. Нажать на страницу 2, 3 или стрелочку</Description>
-<Actual result>Переход на страницу 2, 3 и т.д.</Actual result>
-<Expected result>Переход вверх страницы</Expected result>
+<ActualResult>Переход на страницу 2, 3 и т.д.</ActualResult>
+<ExpectedResult>Переход вверх страницы</ExpectedResult>
 <Severity>блокирующий<Severity>
 <Priority>высокий</Priority>
 </bag>
